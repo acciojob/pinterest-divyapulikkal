@@ -9,6 +9,7 @@
 img{
 	width:400px;
 	height:auto;
+	object-fit:cover;
 }
 .pinn>h1,.pinn>p{
 	text-align:center;
